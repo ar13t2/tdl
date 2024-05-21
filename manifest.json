@@ -10,12 +10,12 @@
     "theme_color": "#ffffff",
     "icons": [
         {
-            "src": "checking-list-svgrepo-com256.png",
+            "src": "to-do-list-svgrepo-com 256.png",
             "sizes": "256x256",
             "type": "img/png"
         },
         {
-            "src": "checking-list-svgrepo-com512.png",
+            "src": "to-do-list-svgrepo-com512.png",
             "sizes": "512x512",
             "type": "img/png"
         }
