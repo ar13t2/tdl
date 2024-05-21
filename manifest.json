@@ -12,12 +12,12 @@
         {
             "src": "to-do-list-svgrepo-com 256.png",
             "sizes": "384x384",
-            "type": "img/png"
+            "type": "image/png"
         },
         {
             "src": "to-do-list-svgrepo-com512.png",
             "sizes": "768x768",
-            "type": "img/png"
+            "type": "image/png"
         }
     ]
 }
