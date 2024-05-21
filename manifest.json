@@ -11,12 +11,12 @@
     "icons": [
         {
             "src": "to-do-list-svgrepo-com 256.png",
-            "sizes": "256x256",
+            "sizes": "384x384",
             "type": "img/png"
         },
         {
             "src": "to-do-list-svgrepo-com512.png",
-            "sizes": "512x512",
+            "sizes": "768x768",
             "type": "img/png"
         }
     ]
